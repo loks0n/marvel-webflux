@@ -1,0 +1,5 @@
+marvel-client:
+  public-key: ${sm://marvel-public-key}
+  private-key: ${sm://marvel-private-key}
+  base-url: https://gateway.marvel.com
+  characters-url: ${marvel-client.base-url}/v1/public/characters

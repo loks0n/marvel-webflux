@@ -1,0 +1,4 @@
+marvel-client:
+  public-key: public-key
+  private-key: private-key
+  base-url: https://marvel.requestcatcher.pl

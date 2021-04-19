@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    gcp:
+      config:
+        enabled: false
+      secretmanager:
+        enabled: false
